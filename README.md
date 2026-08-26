@@ -2,7 +2,7 @@
 
 Computational deep mutational scanning (DMS) of antibody–ligand binding states for **1G10** and **4E2** with **ddhC, ddhU, cytidine, and ddhCTP**.
 
-For each antibody–ligand pair, the highest-occupancy binding state from the MD clustering analysis was selected. Its representative medoid structure was used to identify antibody residues with at least one heavy atom within **4.0 Å** of the ligand. Each selected position was modeled as all 20 canonical amino acids, including the WT self mutant, and scored with **Surfaces**.
+For each antibody–ligand pair, the highest-occupancy binding state from the MD clustering analysis was selected. Its representative medoid structure was used to identify antibody residues with at least one heavy atom within **4.0 Å** of the ligand. Each selected position was modeled with Modeller as all 20 canonical amino acids, including the WT self mutant, and scored with **Surfaces**.
 
 The final dataset contains **55 interface positions and 1,100 modeled variants** across eight antibody–ligand pairs.
 
