@@ -1,0 +1,5 @@
+antibody,ligand,top_state,top_state_occupancy_fraction,chain,resid,icode,resname,wt_aa1,min_heavy_atom_distance_A,n_heavy_atom_pairs_within_cutoff,contact_cutoff_nm
+1G10,ddhCTP,P001,0.1451666666666667,H,9,,ARG,R,3.683802,3,0.4
+1G10,ddhCTP,P001,0.1451666666666667,H,10,,LEU,L,3.004047,22,0.4
+1G10,ddhCTP,P001,0.1451666666666667,H,114,,THR,T,3.453940,6,0.4
+1G10,ddhCTP,P001,0.1451666666666667,H,116,,SER,S,2.706880,6,0.4

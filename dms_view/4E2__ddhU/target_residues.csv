@@ -1,0 +1,12 @@
+antibody,ligand,top_state,top_state_occupancy_fraction,chain,resid,icode,resname,wt_aa1,min_heavy_atom_distance_A,n_heavy_atom_pairs_within_cutoff,contact_cutoff_nm
+4E2,ddhU,P001,1.0,H,49,,ILE,I,3.816084,2,0.4
+4E2,ddhU,P001,1.0,H,101,,VAL,V,3.492807,6,0.4
+4E2,ddhU,P001,1.0,H,102,,ASN,N,2.935864,13,0.4
+4E2,ddhU,P001,1.0,L,30,,TYR,Y,3.220574,12,0.4
+4E2,ddhU,P001,1.0,L,34,,TYR,Y,3.087539,6,0.4
+4E2,ddhU,P001,1.0,L,93,,ALA,A,3.177231,3,0.4
+4E2,ddhU,P001,1.0,L,94,,PHE,F,3.414293,8,0.4
+4E2,ddhU,P001,1.0,L,95,,SER,S,3.591838,2,0.4
+4E2,ddhU,P001,1.0,L,97,,TRP,W,2.992875,9,0.4
+4E2,ddhU,P001,1.0,L,98,,ILE,I,3.937233,1,0.4
+4E2,ddhU,P001,1.0,L,99,,ASN,N,3.940837,1,0.4

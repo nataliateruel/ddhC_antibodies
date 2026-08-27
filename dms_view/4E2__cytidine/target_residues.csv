@@ -1,0 +1,8 @@
+antibody,ligand,top_state,top_state_occupancy_fraction,chain,resid,icode,resname,wt_aa1,min_heavy_atom_distance_A,n_heavy_atom_pairs_within_cutoff,contact_cutoff_nm
+4E2,cytidine,P001,0.4023333333333333,H,32,,ASN,N,3.084801,6,0.4
+4E2,cytidine,P001,0.4023333333333333,H,49,,ILE,I,3.363703,3,0.4
+4E2,cytidine,P001,0.4023333333333333,H,51,,ASN,N,3.099484,7,0.4
+4E2,cytidine,P001,0.4023333333333333,H,57,,TYR,Y,3.326349,9,0.4
+4E2,cytidine,P001,0.4023333333333333,H,99,,TYR,Y,3.433570,4,0.4
+4E2,cytidine,P001,0.4023333333333333,H,101,,VAL,V,3.818809,1,0.4
+4E2,cytidine,P001,0.4023333333333333,L,97,,TRP,W,3.156232,32,0.4

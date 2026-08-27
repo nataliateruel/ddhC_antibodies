@@ -1,0 +1,4 @@
+$ /Users/nf477/anaconda3/envs/nrgsuite/bin/python /Users/nf477/Projects_Natalia/GROMACS/gromacs_ab_ligand_toolkit/ab_ligand_md_8complexes/Surfaces/create_lig_file.py -f /Users/nf477/Projects_Natalia/GROMACS/gromacs_ab_ligand_toolkit/ab_ligand_md_8complexes/computational_DMS_top_occupancy_poses/1G10__ddhCTP/top_pose/1G10_ddhCTP_P001_WT_top_pose.pdb -lig MOL
+
+$ /Users/nf477/anaconda3/envs/nrgsuite/bin/python /Users/nf477/Projects_Natalia/GROMACS/gromacs_ab_ligand_toolkit/ab_ligand_md_8complexes/Surfaces/ligand_atomtypes.py -pdb MOL.pdb -def AMINO_FlexAID.def
+
